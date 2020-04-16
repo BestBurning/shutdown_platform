@@ -1,7 +1,7 @@
 name: shutdown_platform
 description: A new flutter plugin project.
 version: 0.0.1
-author: bruce
+author: bruce <zhushuai026@gmail.com>
 homepage: https://github.com/BestBurning/shutdown_platform
 
 environment:
