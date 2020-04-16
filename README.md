@@ -1,6 +1,6 @@
 # shutdown_platform
 
-A new flutter plugin project.
+the plugin for go-flutter to shutdown platform
 
 ## Getting Started
 

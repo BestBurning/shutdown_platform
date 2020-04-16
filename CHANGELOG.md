@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- 支持了`windows`平台关机
+
+* TODO: 
+  - linux shutdown
+  - mac shutwodn
