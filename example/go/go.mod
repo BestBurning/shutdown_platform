@@ -8,4 +8,4 @@ require (
 	github.com/pkg/errors v0.9.1
 )
 
-replace github.com/BestBurning/shutdown_platform/go => D:\gitRepo\shutdown_platform\go
+replace github.com/BestBurning/shutdown_platform/go => /Users/shuai/Documents/GitRepo/mine/shutdown_platform/go

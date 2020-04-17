@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
               child: IconButton(
                 icon: Icon(Icons.power_settings_new),
                 onPressed: () async {
-                  String str = await ShutdownPlatform.shutdown;
+                  String str = await ShutdownPlatform.shutdownNow;
                   print(str);
                 },
               ),

@@ -8,8 +8,13 @@ class ShutdownPlatform {
 
 
   static Future<String> get shutdown async {
-    final String str = await _channel.invokeMethod('shutdown');
-    return str;
+    final String out = await _channel.invokeMethod('shutdown');
+    return out;
+  }
+
+  static Future<String> get shutdownNow async {
+    final String out = await _channel.invokeMethod('shutdownNow');
+    return out;
   }
 
 }

@@ -1,14 +1,13 @@
 # shutdown_platform
 
-the plugin for go-flutter to shutdown platform
+the plugin for `go-flutter` to shutdown platform `windows`、`linux`、`mac` only
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+a simple usage example:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```
+import 'package:shutdown_platform/shutdown_platform.dart';
+
+String out = await ShutdownPlatform.shutdownNow;
+```

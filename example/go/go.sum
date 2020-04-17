@@ -1,3 +1,4 @@
+github.com/BestBurning/shutdown_platform v0.0.0-20200416142641-ddedfaca2f4b h1:JUMZz/jT50OuRWQDAf02Xrim3CPZqClEEBDNnCm1COU=
 github.com/cubiest/jibberjabber v0.0.0-20200222172555-1351aa3fb4de h1:T/+z9EyfuAur9RtvpyY2bnidbgRR1rklpKjkypTaumY=
 github.com/cubiest/jibberjabber v0.0.0-20200222172555-1351aa3fb4de/go.mod h1:KwsZfRYrxgmPSgdFdORzlShUdTV5/Ri6XBMVT7TVCJY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
