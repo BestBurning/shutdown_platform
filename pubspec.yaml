@@ -1,6 +1,6 @@
 name: shutdown_platform
-description: A new flutter plugin project.
-version: 0.0.1
+description: the plugin for go-flutter to shutdown platform windows、linux、mac
+version: 0.1.0
 author: bruce <zhushuai026@gmail.com>
 homepage: https://github.com/BestBurning/shutdown_platform
 
