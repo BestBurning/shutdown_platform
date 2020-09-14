@@ -9,3 +9,7 @@ import (
 func shutdownPlatform(second string) (res string, err error) {
 	return "", errors.New("platform unsupported")
 }
+
+func shutdownNow() (res string, err error) {
+	return "", errors.New("platform unsupported")
+}
